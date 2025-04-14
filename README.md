@@ -1,0 +1,2 @@
+# Extinguisher
+put out fires
